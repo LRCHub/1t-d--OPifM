@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウォント・イット・オール・オア・ナッシング",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:28:38.334231Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Want It All or Nothing",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Want_It_All_or_Nothing_Ne-Yo.txt"
+    }
+  ]
+}
